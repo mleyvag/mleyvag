@@ -28,6 +28,8 @@
   ![GCP](https://img.shields.io/badge/-Google%20Cloud%20Leader-4285F4?logo=googlecloud&logoColor=white)
 - [**OCI Foundations Certified**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=210C70B2775CAF5FC0F3BE058303EB80B767E032E126CCB386167156C2868D6E)  
   ![OCI](https://img.shields.io/badge/-OCI%20Foundations-F80000?logo=oracle&logoColor=white)
+- [**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/MIGUELANGELLEYVAGUADALUPE-9488/A7F66E501560AFF4?sharingId=AD8EDE2AC01F664E)  
+  ![Azure](https://img.shields.io/badge/-Azure%20Fundamentals-0078D4?logo=microsoftazure&logoColor=whit)
 
 
 ### 📫 Contacto:
