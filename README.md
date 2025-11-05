@@ -20,6 +20,8 @@
 
 ### 🏆 Certificaciones
 
+- [**AWS Certified AI Practitioner**](https://www.credly.com/badges/5ac484a2-9893-4648-9475-515218e5f6cf/public_url)  
+  ![AWS](https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)
 - [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/6abe696a-621d-4e33-9f59-ee55eb66ac22/public_url)  
   ![AWS](https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)
 - [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/801b61d4-2128-47a0-bf90-d594ebb9c444/public_url)  
