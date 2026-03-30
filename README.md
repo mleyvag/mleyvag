@@ -37,7 +37,6 @@
 - [**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/MIGUELANGELLEYVAGUADALUPE-9488/A7F66E501560AFF4?sharingId=AD8EDE2AC01F664E)  
   ![Azure](https://img.shields.io/badge/-Azure%20Fundamentals-0078D4?logo=microsoftazure&logoColor=whit)
 
-Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 ### 📫 Contacto:
 
 - LinkedIn: [Miguel Leyva](https://linkedin.com/in/mleyvag)
