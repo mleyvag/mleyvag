@@ -28,6 +28,8 @@
   ![AWS](https://img.shields.io/badge/-Solutions%20Architect%20Associate-FF9900?logo=amazonaws&logoColor=white)
 - [**AWS Certified Developer – Associate**](https://www.credly.com/badges/2ffd063d-1bf8-460a-a480-6605800b2263/public_url)  
   ![AWS](https://img.shields.io/badge/-Developer%20Associate-FF9900?logo=amazonaws&logoColor=white)
+- [**AWS Certified Solutions Architect – Professional**](https://www.credly.com/badges/d8b50571-6fd0-40ed-ad7d-300c1118ffd9/public_url)  
+  ![AWS](https://img.shields.io/badge/-Solutions%20Architect%20Proffesional-FF9900?logo=amazonaws&logoColor=white)
 - [**Google Cloud Digital Leader**](https://www.credly.com/badges/c6806aaf-7444-4ff2-bcc2-4531236e84dc/public_url)  
   ![GCP](https://img.shields.io/badge/-Google%20Cloud%20Leader-4285F4?logo=googlecloud&logoColor=white)
 - [**OCI Foundations Certified**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=210C70B2775CAF5FC0F3BE058303EB80B767E032E126CCB386167156C2868D6E)  
